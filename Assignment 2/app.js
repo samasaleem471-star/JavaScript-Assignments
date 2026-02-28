@@ -41,3 +41,5 @@
 // document.write("Yah! I can write HTML content through "+ javaScript)
 
 // Queston 9
+// let pattern ="“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”"
+// alert(pattern)

@@ -14,7 +14,7 @@
 // document.write("Data type of my declared variable is number")
 
 // Question # 04
-let visitorName = "John Doe"
-let productName = "T-shirt"
-let quantity =5
-document.write(visitorName+" ordered "+quantity+" "+productName+"(s)"+" on XYZ Clothing store.")
+// let visitorName = "John Doe"
+// let productName = "T-shirt"
+// let quantity =5
+// document.write(visitorName+" ordered "+quantity+" "+productName+"(s)"+" on XYZ Clothing store.")
