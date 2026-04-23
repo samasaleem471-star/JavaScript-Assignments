@@ -12,7 +12,7 @@
 //   alert("Good Morning Sir");
 // }
 
-// Question # 03 
+// Question # 03
 // let signalColor = prompt("What's the color of road traffic signal?");
 // if (signalColor === "Red"){
 //     alert("Must Stop")
@@ -29,7 +29,7 @@
 // }
 
 // Question # 05
-document.write("Question 05")
+// document.write("Question 05")
 // "a"
 // let a =4;
 // if(++a ===5){
@@ -85,3 +85,41 @@ document.write("Question 05")
 // alert("car is smaller than cat");
 // }
 // document.write("e : Displayed")
+
+// Question # 06
+// let sub1 = +prompt("Enter marks of subject 1")
+// let sub2 = +prompt("Enter marks of subject 2")
+// let sub3 = +prompt("Enter marks of subject 3")
+// let totalMarks = +prompt("Enter total marks")
+
+// let obtainedMarks = sub1 + sub2 +sub3 ;
+// let percentage = (obtainedMarks / totalMarks) * 100;
+
+// if(percentage >= 80){
+//     grade = "A-one"
+//     remarks = "Excellent"
+// }else if(percentage >= 70){
+//     grade = "A"
+//   remarks = "Good"
+// }else if(percentage >= 60){
+//     grade = "B"
+//     remarks = "You need to improve"
+// }else if(percentage < 60){
+//     grade ="Fail"
+//     remarks ="Sorry"
+// }
+
+// document.write("Total Marks:" + totalMarks + "</br>")
+// document.write("Marks Obtained:" + obtainedMarks + "</br>")
+// document.write("Percentage:" + percentage + "%" + "</br>")
+// document.write("Grade:" + grade + "</br>")
+// document.write("Remarks:" + remarks + "</br>")
+
+// Question # 07
+// let secretNum = 4;
+// let userGuess = +prompt("Guess the number?");
+// if (userGuess === secretNum) {
+//   alert("Bingo!");
+// } else if (userGuess - 1 === secretNum) {
+//   alert("Close enough to the correct answer");
+// }
