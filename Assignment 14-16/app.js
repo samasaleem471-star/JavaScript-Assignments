@@ -43,9 +43,9 @@
 // document.write(`Score of ${studentName[1]} is ${studentMarks[1]}. Percentage: ${studentPercentage[1]}% </br>`)
 // document.write(`Score of ${studentName[2]} is ${studentMarks[2]}. Percentage: ${studentPercentage[2]}% </br>`)
 
-// // Question # 09
-let color =["pink","green","orange","purple"]
-document.write(color)
+// Question # 09
+// let color =["pink","green","orange","purple"]
+// document.write(color)
 
 // "a"
 // document.write("</br>")
@@ -74,6 +74,47 @@ document.write(color)
 // color.pop()
 // document.write(color)
 
-// smjh nhi aa rha iske aage
+// "f"
+// let colors = ["Red","Blue","Orange","Pink"];
+// let  userColor = prompt(" What color do you want to add?");
+// let userIndex = +prompt("At which position do u want to add a color?");
+// let finalIndex = userIndex-1;
+// colors.splice(finalIndex,0,userColor);
+// document.write(colors);
 
+// "g"
+// let colors = ["Red","Blue","Orange","Pink"];
+// let  numOfColors = +prompt(" How many colors do you want to delete?");
+// let indexNum = +prompt("At which position do u want to delete colors?");
+// let finalIndex = indexNum-1;
+// colors.splice(indexNum,numOfColors);
+// document.write(colors);
+
+// Question # 10
+// let studentScore = [320,230,480,120];
+// document.write(`Score Of Students ; ${studentScore}`);
+// document.write("</br>")
+// document.write("Ordered Scores Of Student" + studentScore.sort());
+
+// Question # 11
+// let cities = ["Karachi", "Lahore ","Islamabad","Quetta","Peshawar"];
+// document.write(`Cities List: </br> ${cities}`);
+// document.write("</br>");
+// document.write("Selected Cities List:"+"</br>" + cities.slice(2,4));
+
+// Question # 12
+// let joining = ["This","is","my","cat"]
+// document.write(`Array : </br> ${joining}`);
+// document.write("</br>");
+// document.write("String : " + "</br>" + joining.join(" "));
+
+// Question # 13
+// let devices = ["keyboard","mouse","printer","monitor"]
+// document.write(`Devices : </br> ${devices} </br>`);
+// document.write("Out"+"</br>"+devices.shift() +  "</br>");
+// document.write("Out"+"</br>"+devices.shift() +  "</br>");
+// document.write("Out"+"</br>"+devices.shift() +  "</br>");
+// document.write("Out"+"</br>"+devices.shift() +  "</br>");
+
+// Question # 14
 
