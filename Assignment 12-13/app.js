@@ -59,5 +59,4 @@
 //     greeting ="Good Evening"
 // }
 
-// Question # 07
-// smjh nhi aaya ye que
+

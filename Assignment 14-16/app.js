@@ -117,4 +117,19 @@
 // document.write("Out"+"</br>"+devices.shift() +  "</br>");
 
 // Question # 14
+// var devices = ["keyboard", "mouse", "printer", "monitor"];
 
+// for (var i = devices.length - 1; i >= 0; i--) {
+//   document.write("Out: " + "<br>"+ devices[i] + "<br>");
+// }
+
+// Question # 15
+// let phones = ["Apple","Samsung","Motorola","Nokia","Sony","Haier"];
+
+//   document.write("<select>");
+
+//     for (var i = 0; i < phones.length; i++) {
+//         document.write("<option>" + phones[i] + "</option>");
+//     }
+
+// document.write("</select>");

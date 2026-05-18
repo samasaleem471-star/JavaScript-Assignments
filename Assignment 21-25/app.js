@@ -29,6 +29,12 @@
 // document.write(`Character at index 3: ${word.charAt(3)}`)
 
 // Question # 06
+// let firstName = prompt("Enter your first name");
+// let lastName = prompt("Enter your last name");
+
+// let fullName = firstName.concat(" ", lastName);
+
+// alert("Welcome " + fullName);
 
 // Question # 07
 // let city = "Hyderabad"
@@ -41,7 +47,15 @@
 // document.write(message.replace(/and/g,"&"))
 
 // Question # 09
-// nhi hua
+// let num = "472"
+// document.write(`Value: ${num} </br>`);
+// document.write("")
+// document.write("Type: ");
+// document.write(typeof(num));
+// document.write("</br>")
+// document.write(`Value: ${num} </br>`);
+// document.write("Type: ");
+// document.write(typeof(Number(num)));
 
 // Qestion # 10
 // let userInput = prompt("Type peanuts");
@@ -57,7 +71,10 @@
 // document.write(`Title case: ${final} `)
 
 // Question # 12
-// nhi hua
+// let num = 35.36 ;
+// document.write(`Number: ${num}`)
+// document.write("</br>")
+// document.write("Result: " + num.toString().replace(".",""))
 
 // Question # 13
 // let userName = prompt("Enter your username")
@@ -118,7 +135,11 @@
 // }
 
 // Questin # 16
-// nhi smjh a rha
+// let word = "University Of Karachi";
+// let arr = word.split("");
+// for(let i = 0; i < arr.length; i++){
+//     document.write(arr[i]+  "</br>");
+// }
 
 // Question # 17
 // let userInput = prompt("Enter the word")
